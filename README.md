@@ -1,2 +1,2 @@
-# DataScience
-Repository to store Machine Learning,Deep Learning and Artificial Intelligence Learning Code.
+# Data Science Salary Estimator: Project Overview
+Repository for the Data Science Prediction of the Data Science Project.
